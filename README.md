@@ -1,9 +1,3 @@
-## facial landmarks recognition 
+## emotion recognision 
 
-![My Face](https://i.imgur.com/7IIOka9.png)
-
-### Dependencies 
-`pip install numpy opencv-python dlib imutils`
-
-### Run
-`python main.py`
+major project 
