@@ -1,0 +1,12 @@
+__pycache__/*
+ent/*
+Angry/*
+disgust/*
+Happy/*
+model/*
+Neutral/*
+output/*
+ent/*
+refined/*
+fear
+.ipynb_checkpoints
